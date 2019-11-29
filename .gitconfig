@@ -1,0 +1,7 @@
+[user]
+	name = Nikita
+	email = nikita.serg.12@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = true
+	quotepath = off
